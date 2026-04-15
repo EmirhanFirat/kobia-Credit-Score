@@ -1,0 +1,11 @@
+pandas==2.2.2          # veri analizi ve tablo manipülasyonu için
+numpy==1.26.4          # sayısal hesaplamalar ve matris işlemleri için
+scikit-learn==1.5.0    # hazır makine öğrenmesi algoritmaları için
+xgboost==2.1.1         # gradient boosting tabanlı güçlü sınıflandırma/regresyon modeli
+lightgbm==4.4.0        # hızlı ve verimli gradient boosting algoritması
+fastapi==0.111.0       # modern ve hızlı API geliştirme framework'ü
+uvicorn==0.30.1        # ASGI uyumlu uygulama sunucusu
+pydantic==2.7.4        # veri validasyonu ve şema yönetimi için
+joblib==1.4.2          # model serileştirme ve cache işlemleri için
+pytest==8.2.2          # birim test ve otomatik test süreçleri için
+python-dotenv==1.0.1   # .env dosyasından ortam değişkenlerini okumak için
