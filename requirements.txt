@@ -1,5 +1,6 @@
 pandas==2.2.2          # veri analizi ve tablo manipülasyonu için
 numpy==1.26.4          # sayısal hesaplamalar ve matris işlemleri için
+missingno==0.5.2       # Eksik veri görselleştirme
 scikit-learn==1.5.0    # hazır makine öğrenmesi algoritmaları için
 xgboost==2.1.1         # gradient boosting tabanlı güçlü sınıflandırma/regresyon modeli
 lightgbm==4.4.0        # hızlı ve verimli gradient boosting algoritması
